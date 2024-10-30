@@ -13,7 +13,7 @@ python
 Copy code
 import nltk
 nltk.download('punkt')
-nltk.download('wordnet')```
+nltk.download('wordnet')
 
 ##Instructions
 ##Open the Notebook:
