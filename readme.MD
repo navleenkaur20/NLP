@@ -3,9 +3,9 @@
 
  ## Prerequisites To run this code, 
 Installed Python and Jupyter Notebook. The following Python libraries are also required:
- - `pandas` 
-- `scikit-learn` 
-- `nltk`
+ - pandas
+- scikit-learn
+- nltk
 
 **NLTK Data Setup**
 <p> To run the text preprocessing functions (e.g., lemmatization), you’ll need NLTK's wordnet and punkt data. 
