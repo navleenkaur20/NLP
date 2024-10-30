@@ -7,22 +7,22 @@ Installed Python and Jupyter Notebook. The following Python libraries are also r
 - `scikit-learn` 
 - `nltk`
 
-*NLTK Data Setup*
-```To run the text preprocessing functions (e.g., lemmatization), you’ll need NLTK's wordnet and punkt data. Install them with:
-python
-Copy code
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
+** NLTK Data Setup **
+To run the text preprocessing functions (e.g., lemmatization), you’ll need NLTK's wordnet and punkt data. 
+Install them with:
 
-##Instructions
-##Open the Notebook:
+-import nltk
+-nltk.download('punkt')
+-nltk.download('wordnet')
 
-Load the notebook file Nlp assignment 2.ipynb in Jupyter Notebook or JupyterLab.
-Run the Cells in Order:
+## Instructions
+## Open the Notebook:
 
-Each cell contains a specific step of the workflow, including data preprocessing, feature extraction, and model training.
-Run each cell sequentially to ensure the code executes correctly.
+- Load the notebook file Nlp assignment 2.ipynb in Jupyter Notebook or JupyterLab.
+- Run the Cells in Order:
+
+- Each cell contains a specific step of the workflow, including data preprocessing, feature extraction, and model training.
+- Run each cell sequentially to ensure the code executes correctly.
 Code Structure:
 
 ## Data Preprocessing: 
@@ -35,7 +35,7 @@ Trains both Naive Bayes and Logistic Regression models using the features.
 Calculates accuracy, precision, and recall for each model.
 ## Viewing Results:
 
-After running the evaluation cells, you’ll see the model predictions along with accuracy, precision, and recall scores.
+<p> After running the evaluation cells, you’ll see the model predictions along with accuracy, precision, and recall scores.
 Reproducing Results
-The dataset is split into training and test sets with a set random seed (random_state=42) to ensure reproducibility. You can adjust hyperparameters and re-run cells to observe changes in model performance.
+The dataset is split into training and test sets with a set random seed (random_state=42) to ensure reproducibility. You can adjust hyperparameters and re-run cells to observe changes in model performance. </p>
 
