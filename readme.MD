@@ -25,10 +25,14 @@ Each cell contains a specific step of the workflow, including data preprocessing
 Run each cell sequentially to ensure the code executes correctly.
 Code Structure:
 
-## Data Preprocessing: ```Cleans the text data, tokenizes it, and performs lemmatization.```
-## Feature Engineering: * ```Converts text data into numerical features using Bag of Words and TF-IDF.```
-## odel Training: *```Trains both Naive Bayes and Logistic Regression models using the features.```
-## Evaluation:*``` Calculates accuracy, precision, and recall for each model.```
+## Data Preprocessing: 
+Cleans the text data, tokenizes it, and performs lemmatization.
+## Feature Engineering:
+Converts text data into numerical features using Bag of Words and TF-IDF.
+## odel Training:
+Trains both Naive Bayes and Logistic Regression models using the features.
+## Evaluation:
+Calculates accuracy, precision, and recall for each model.
 ## Viewing Results:
 
 After running the evaluation cells, you’ll see the model predictions along with accuracy, precision, and recall scores.
