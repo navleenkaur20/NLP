@@ -29,7 +29,7 @@ Code Structure:
 Cleans the text data, tokenizes it, and performs lemmatization.
 ## Feature Engineering:
 Converts text data into numerical features using Bag of Words and TF-IDF.
-## odel Training:
+## Model Training:
 Trains both Naive Bayes and Logistic Regression models using the features.
 ## Evaluation:
 Calculates accuracy, precision, and recall for each model.
