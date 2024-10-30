@@ -1,7 +1,8 @@
 # Sentiment Classification Using Naive Bayes and Logistic Regression 
 ```This notebook demonstrates a sentiment classification task using Naive Bayes and Logistic Regression with two feature extraction methods: Bag of Words (BoW) and TF-IDF.```
 
- ## Prerequisites To run this code, you’ll need Python and Jupyter Notebook installed. The following Python libraries are also required:
+ ## Prerequisites To run this code, 
+Installed Python and Jupyter Notebook. The following Python libraries are also required:
  - `pandas` 
 - `scikit-learn` 
 - `nltk`
