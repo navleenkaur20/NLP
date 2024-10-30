@@ -8,12 +8,12 @@ Installed Python and Jupyter Notebook. The following Python libraries are also r
 - `nltk`
 
 ** NLTK Data Setup **
-To run the text preprocessing functions (e.g., lemmatization), you’ll need NLTK's wordnet and punkt data. 
-Install them with:
+<p> To run the text preprocessing functions (e.g., lemmatization), you’ll need NLTK's wordnet and punkt data. 
+Install them with: </p>
 
--import nltk
--nltk.download('punkt')
--nltk.download('wordnet')
+- import nltk
+- nltk.download('punkt')
+- nltk.download('wordnet')
 
 ## Instructions
 ## Open the Notebook:
