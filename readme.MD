@@ -7,7 +7,7 @@ Installed Python and Jupyter Notebook. The following Python libraries are also r
 - `scikit-learn` 
 - `nltk`
 
-** NLTK Data Setup **
+**NLTK Data Setup**
 <p> To run the text preprocessing functions (e.g., lemmatization), you’ll need NLTK's wordnet and punkt data. 
 Install them with: </p>
 
@@ -16,7 +16,7 @@ Install them with: </p>
 - nltk.download('wordnet')
 
 ## Instructions
-** Open the Notebook: **
+**Open the Notebook:**
 
 - Load the notebook file Nlp assignment 2.ipynb in Jupyter Notebook or JupyterLab.
 - Run the Cells in Order:
